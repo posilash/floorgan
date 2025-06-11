@@ -9,7 +9,7 @@ Leveraging deep learning, Floorgan assists architects, designers, and developers
 
 - [🚀 Overview](#-overview)
 - [✨ Features](#-features)
-- [⚙️ Installation](#-installation-)
+- [⚙️ Installation](#-installation)
 - [📖 Usage](#-usage)
 - [⚠️ Disclaimer](#-disclaimer)
 - [🏗️ Model Architecture](#-model-architecture)
