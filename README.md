@@ -9,6 +9,7 @@ Leveraging deep learning, Floorgan assists architects, designers, and developers
 
 - [🚀 Overview](#-overview)
 - [✨ Features](#-features)
+- [⚙️ Installation](#-installation-)
 - [📖 Usage](#-usage)
 - [⚠️ Disclaimer](#-disclaimer)
 - [🏗️ Model Architecture](#-model-architecture)
@@ -38,10 +39,8 @@ To get started with Floorgan, clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/posilash/floorgan.git
-cd floorgan
-pip install -r requirements.txt
 ```
-
+---
 ## 📖 Usage
 
 Run the model using the provided Jupyter Notebook or Google Colab:
