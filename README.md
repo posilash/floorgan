@@ -3,6 +3,10 @@
 **Floorgan** is a Deep Convolutional Generative Adversarial Network (DCGAN) designed to generate architectural floor plans.  
 Leveraging deep learning, Floorgan assists architects, designers, and developers in visualizing and prototyping building layouts efficiently.
 
+<p align="center">
+<img src="./screenshots/Screenshot%202024-05-14%20072524.png" width="400"/>
+</p>
+
 ---
 
 ## 📋 Table of Contents
@@ -71,6 +75,8 @@ Floorgan's architecture is based on the DCGAN framework, consisting of:
 
 Both components are trained adversarially to improve the quality of generated outputs.
 
+<img src="./screenshots/Screenshot%202024-05-13%20152647.png" width="400"/>
+
 ## 🎓 Training
 
 To train the model, follow the instructions in the floorgan.ipynb notebook.
@@ -84,7 +90,20 @@ Make sure you have a dataset of architectural floor plans in a suitable format (
 
 - 📈 Monitoring progress and tuning hyperparameters.
 
+<img src="./screenshots/Screenshot%202024-05-10%20104055_.png" width="600"/>
+
+---
+
 ## 📊 Evaluation
+
+<table>
+ <tr>
+    <td><img src="./screenshots/Screenshot%202024-05-14%20065512.png" width="1200"/></td>
+    <td><img src="./screenshots/Screenshot%202024-05-14%20065956.png" width="1200"/></td>
+    <td><img src="./screenshots/Screenshot%202024-05-14%20071225.png" width="1200"/></td>
+    <td><img src="./screenshots/Screenshot%202024-05-14%20072524.png" width="1200"/></td>
+  </tr>
+</table>
 
 After training, evaluate performance by generating new floor plans:
 
@@ -93,6 +112,8 @@ After training, evaluate performance by generating new floor plans:
 - 🔍 Assess quality and diversity of generated plans.
 
 - 📏 Optionally, compare with real floor plans using metrics like Inception Score or Fréchet Inception Distance.
+
+<img src="./screenshots/Screenshot%202024-05-10%20044723.png" width="600"/>
 
 ---
 
